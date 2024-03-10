@@ -4,6 +4,16 @@
 
 WriteNest, a full-stack web application designed to empower users to share their thoughts and ideas through blog posts. This project is built with a focus on simplicity, user engagement, and a seamless experience from content creation to commenting.
 
+### Setup
+
+Sample `.env`
+
+```txt
+MONGO_USER=
+MONGO_PASS=
+MONGO_URL=
+```
+
 ### Scripts
 
 - `pnpm install` - Install dependencies.
