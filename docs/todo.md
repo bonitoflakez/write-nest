@@ -2,7 +2,7 @@
 
 ### Project
 
-- Setup client and server
+- ~~Setup client and server~~
 - Showcase a base directory structure
 
 ### Development
@@ -10,12 +10,14 @@
 ### Server
 
 - Setup server
-  - Write a basic server
-  - Setup API healthcheck
-  - Setup Database
+  - ~~Write a basic server~~
+  - ~~Setup API healthcheck~~
+  - ~~Setup Database~~
 - Setup Authentication API
-  - JWT based authentication
+  - ~~Register user~~
+  - Login using JWT
 - Setup Roles
+  - Setup role based authentication
 - more...
 
 ### Client
